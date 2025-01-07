@@ -81,4 +81,3 @@ The project uses Python with libraries like Pandas, Numpy, TensorFlow, Keras, Op
 
 The project develops an ML-based system for DR detection, aiming to provide timely medical assistance and improve patient outcomes. The DenseNet-based deep neural network enhances DR severity prediction, aiding in early-stage treatment and preventing blindness.
 
-Would you like to make any additional adjustments or keep it as is?
