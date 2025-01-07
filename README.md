@@ -1,8 +1,4 @@
-
-
-Sure! Here's a refined version of your README file, maintaining all the original content while improving readability and structure. I'll ensure that no information is removed.
-
-### Diabetes Retinopathy Detector
+# Diabetes Retinopathy Detector
 
 ### Abstract
 
